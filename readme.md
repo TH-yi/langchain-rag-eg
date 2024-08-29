@@ -24,8 +24,8 @@ Additionally, you need an active OpenAI API key.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/elasticsearch-wikipedia-vector-database.git
-   cd elasticsearch-wikipedia-vector-database
+   git clone https://github.com/TH-yi/langchain-rag-eg.git
+   cd langchain-rag-eg
    ```
 
 2. **Install the required Python packages:**
